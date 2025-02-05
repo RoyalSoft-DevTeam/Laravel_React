@@ -1,4 +1,4 @@
-# Simple Laravel 11 CRUD Application Tutorial
+# Simple Laravel 11 + React CRUD Application Tutorial
 Learn how to develop a simple Laravel 11 CRUD application
 
 ## Installation 
